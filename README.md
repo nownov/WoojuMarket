@@ -17,3 +17,27 @@
    - '수정' 버튼을 통해 본인의 게시글 수정 가능
    - '삭제' 버튼을 통해 본인의 게시글 삭제 가능
 4. **상품 등록 페이지**: 사진 등록, 카테고리 선택, 상품 설명 입력 가능
+
+
+# 🚀 Wooju-market
+
+## ☝🏻Overview
+
+### “Would you use it?”
+A second-hand trading platform designed to ensure women's safety and help prevent sex crimes that can occur during in-person transactions.
+
+## ✌🏻Features
+
+## Login/Sign-up
+- User authentication through Kakao login, with verification for female users.
+## Main Page
+ - Displays second-hand items listed by users
+ - Clicking an image redirects to the item’s detail page
+ - Users can search listings using keywords
+## Detail Page
+ - Shows seller’s nickname, price, view count, listing date, and item description
+ - Users can “like” an item by clicking the heart button
+ - Inquiries can be made via comments, which are always private (visible only to the post author and commenter)
+ - Authors can edit or delete their own listings via “Edit” and “Delete” buttons
+## Item Upload Page
+ - Allows users to upload item photos, select a category, and write a product description
